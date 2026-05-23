@@ -14,9 +14,9 @@ Possesses comprehensive in-depth analytical skills and expertise in security and
 
 # academic competitions
 
-- TUBITAK 2204-A Research Projects Competition (Software / Computer Science category participation)
-- TEKNOFEST Aviation, Space and Technology Festival (Cyber Security / Software Technologies challenges)
-- IEEE Student Branch Programming & Systems Development Competitions
+- TUBITAK 2204-A Research Projects Competition
+- TEKNOFEST Aviation, Space and Technology Festival 
+- IEEE Student Branch Programming 
   
 # visited places
 
